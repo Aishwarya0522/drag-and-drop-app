@@ -7,3 +7,6 @@ Added drag-and-drop feature to reorder list items
 - Styled the items to ensure they look interactive and respond smoothly while being dragged.
 
 This feature introduces a dynamic way to reorder list items through drag-and-drop in React.
+
+View live demo: https://drag-and-drop-app-ebon.vercel.app/
+GitHub Repo: https://github.com/Aishwarya0522/drag-and-drop-app
